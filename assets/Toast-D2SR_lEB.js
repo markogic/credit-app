@@ -1,0 +1,1 @@
+const s=(o,n="info")=>{console.log(`[${n.toUpperCase()}] ${o}`)},r={success:o=>s(o,"success"),warning:o=>s(o,"warning"),error:o=>s(o,"error"),validation:o=>s(o,"validation"),info:o=>s(o,"info")};export{r as T};
