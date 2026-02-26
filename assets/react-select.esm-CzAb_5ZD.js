@@ -1,0 +1,1 @@
+import{u as s,S as o,a as S}from"./Select-ef7c0426.esm-uEr7u5Nf.js";import{r as e}from"./index-BiS1Tgf-.js";var n=e.forwardRef(function(a,t){var r=s(a);return e.createElement(o,S({ref:t},r))}),l=n;export{l as S};
